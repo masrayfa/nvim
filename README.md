@@ -1,4 +1,4 @@
-# This is my nvim config 
+# This is my neovim config 
 ### inspired a lot by craftzdog and nexxeln config
 ![Screenshot (84)](https://user-images.githubusercontent.com/73578698/206838074-385f8646-0aba-489e-879e-0f5adec3e2b3.png)
 
